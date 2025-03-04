@@ -3,6 +3,8 @@
  * Version: 1.2.0
  * Author: 1 Y S L (Discord: fazzteer)
  * License: MIT
+ * Credits: leHeix (le use de base su optimizer :fire:) atom ( me estafo 15$) el wero (tiene sida) schord0s (no sabe hacer textdraw)
+ * Nuck (es mulo de los 2 anteriores)
  */
 
 #if defined _YSL_OPT_included
